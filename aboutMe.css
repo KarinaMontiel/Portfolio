@@ -1,6 +1,6 @@
 html {
     font-family: 'Comfortaa', cursive;
-    background: linear-gradient(lightblue, white);
+    background: linear-gradient(lightblue,white, lavender, pink);
     border: 10px dotted lightpink;
 
 }
@@ -37,5 +37,5 @@ a {
     color: purple;
 }
 #ash{
-    color:pink;
+    color:white;
 }
