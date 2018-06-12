@@ -1,0 +1,44 @@
+html {
+    font-family: 'Comfortaa', cursive;
+    background: linear-gradient(lightblue, white);
+    border: 10px dotted lightpink;
+
+}
+h1 {
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    border: 10px double white;
+    box-shadow: 10px 10px 10px lightpink;
+}
+body {
+    font-family: 'Arima Madurai', cursive;
+
+}
+#ashley {
+    width: 30%;
+    margin: auto;
+    display: block;
+}
+.subs {
+    font-family: 'Comfortaa', cursive;
+    color: lightpink;
+    border: 10px dashed white;
+    text-transform: uppercase;
+    }
+li {
+   font-family: 'Arima Madurai', cursive;
+   list-style-type: square;
+   list-style-position: inside;
+}
+h2:hover {
+    color: purple;
+}
+a {
+    color: purple;
+}
+#ash {
+    color:#a82540;
+}
+#volleyball{
+    width: 300px;
+}
