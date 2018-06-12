@@ -1,0 +1,26 @@
+.row{   
+    display:flex;
+    justify-contente: space-around;
+    background-color:black;
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width:20%;
+    
+   
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    background: radial-gradient(#42ebf4, #f7adf1, #f7f576);
+}
+.aboutme{
+    border:1px solid black;   
+}
+
