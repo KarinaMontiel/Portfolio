@@ -2,3 +2,7 @@ h1{
     text-align:center;
 }
 
+html{
+    
+    background: radial-gradient(#42ebf4, #f7adf1, #f7f576);
+}
