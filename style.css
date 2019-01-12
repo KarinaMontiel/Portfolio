@@ -36,3 +36,13 @@
 h1{
     text-shadow: 2px 2px aqua;
 }
+
+a:link {
+color: whitesmoke;
+}
+a:visited {
+color: lightpink;
+}
+a:hover {
+color: lavender;
+}

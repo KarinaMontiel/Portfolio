@@ -4,7 +4,25 @@ h1{
 
 }
 
+.row{   
+    display:flex;
+    justify-content: space-around;
+    Background-color: lavender;
+    color:white;
+    font-size:20px;
+    width: 100%;
+}
 html{
     
     background: radial-gradient(#42ebf4, #f7adf1, #f7f576);
+}
+
+a:link {
+color: whitesmoke;
+}
+a:visited {
+color: lightpink;
+}
+a:hover {
+color: lavender;
 }
