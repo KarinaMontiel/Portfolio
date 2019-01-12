@@ -22,7 +22,7 @@ body {
 .subs {
     font-family: 'Comfortaa', cursive;
     color: lightpink;
-    border: 10px dashed white;
+    border: 3px solid white;
     text-transform: uppercase;
     }
 li {
