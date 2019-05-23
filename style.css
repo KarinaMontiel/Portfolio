@@ -2,7 +2,7 @@
     display:flex;
     justify-content: space-around;
     background-color:black;
-    color:white;
+    color:lightpink;
     font-size:20px;
 }
 .headshot{
@@ -44,5 +44,5 @@ a:visited {
 color: lightpink;
 }
 a:hover {
-color: lavender;
+color: #c9c9ff;
 }
